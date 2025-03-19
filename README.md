@@ -18,3 +18,5 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+... I have made some edits to the readme. Modified a file per Module #3 pt 1.
